@@ -6,8 +6,8 @@ $error_message = "";
 $success_message = "";
 
 // --- GOOGLE OAUTH CONFIGURATION ---
-$google_client_id = '60493602611-u6kbm2i5t9ugr4551jsq267bunfsorcv.apps.googleusercontent.com';
-$google_client_secret = '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';
+$google_client_id = 'hidden';
+$google_client_secret = 'hidden';
 $google_redirect_uri = 'http://edupulse.dlsud.edu.ph/softeng/KJJ_SoftwareEng/index.php';
 
 // Handle user clicking "Cancel" during any OTP or Reset phase
